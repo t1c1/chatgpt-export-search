@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Data and indexes
+*.db
+*.db-shm
+*.db-wal
+index/
+my_export/
+exports/
+data/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
